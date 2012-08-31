@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="github"
-           fetch="git://github.com/LiquidSmoothROMs/"
+           fetch="git://github.com/LiquidSmooth/"
            review="review.liquidsmooth.org" />
 
   <default revision="refs/tags/android-4.0.4_r2.1"
